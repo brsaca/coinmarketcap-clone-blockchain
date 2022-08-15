@@ -3,8 +3,8 @@
 Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS](https://www.youtube.com/watch?v=fim8DfBPVks)
 
 <p align="center">
-<!--<a href="https://ancient-dew-1659.on.fleek.co">
-<img src="images/dao.png" align="center" width="50%">
+<!--<a href="https://62faa4124071600bff7a8cd9--bsc-coinmarketcap-clone-blockchain.netlify.app/">
+<img src="images/coinmarket.png" align="center" width="50%">
 </a>  -->
 <br><br>
      Coin Market
@@ -53,3 +53,6 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 
 Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
+
+
+https://youtu.be/fim8DfBPVks?t=466
