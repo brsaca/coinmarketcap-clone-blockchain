@@ -9,6 +9,9 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 <br><br>
      Coin Market
     <br><br>
+    <a href="#">
+    <img alt="Version" src="https://img.shields.io/badge/WIP-red.svg" />
+  </a>
   <a href="#">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-orange.svg" />
   </a>
