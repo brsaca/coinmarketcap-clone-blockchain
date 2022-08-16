@@ -34,6 +34,11 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 </a>  
 </p>
 
+## 🤖 Requirements
+
+- Have an account on [moralis](https://moralis.io/) to use the server
+- Have an account on [netlify](https://www.netlify.com/) to upload the project
+
 ## ✨ TODO
 
 - [ ] Tests
@@ -55,4 +60,4 @@ Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
 
 
-https://youtu.be/fim8DfBPVks?t=466
+https://youtu.be/fim8DfBPVks?t=1784

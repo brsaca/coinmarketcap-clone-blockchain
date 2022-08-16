@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import Search from '../assets/svg/search'
+import { useMoralis } from "react-moralis";
 
 const styles = {
   header: `bg-[#17171A] text-white h-20 flex gap-[100px] w-full p-[30px]`,
@@ -15,6 +16,7 @@ const styles = {
 }
 
 const Header = () => {
+  const {authenticate, authError, isAuthenticated, logout} = useMoralis();
   return (
     <div className={styles.header}>
       <Image
@@ -64,14 +66,16 @@ const Header = () => {
         </nav>
 
         <div className='flex items-center'>
-        {/*<ConnectButton /> */} 
-        <div className={styles.inputContainer}>
-          <Search />
-          <input className={styles.input} placeholder='Search' />
+        {isAuthenticated ? (
+            <button onClick= {logout}>Sign Out</button>
+            ):(
+              <button onClick={authenticate}>Login</button>
+          )  }
+          <div className={styles.inputContainer}>
+            <Search />
+            <input className={styles.input} placeholder='Search' />
+          </div>
         </div>
-      </div>
-
-        
       </div>
     </div>
   )
