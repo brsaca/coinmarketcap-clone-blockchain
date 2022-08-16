@@ -42,6 +42,7 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 ## ✨ TODO
 
 - [ ] Tests
+- [ ] Show login button with user and ether
 
 <br>
 
