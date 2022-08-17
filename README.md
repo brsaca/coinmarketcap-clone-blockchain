@@ -32,6 +32,9 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 <a href="https://www.netlify.com/">
 <img src="images/netlify.png" align="center" width="10%">
 </a>  
+<a href="https://coinmarketcap.com/">
+<img src="images/coinmarketcap.png" align="center" width="6%">
+</a>  
 </p>
 
 ## 🤖 Requirements
@@ -61,4 +64,6 @@ Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
 
 
-https://youtu.be/fim8DfBPVks?t=1784
+https://youtu.be/fim8DfBPVks?t=4174
+
+https://pro.coinmarketcap.com/account/
