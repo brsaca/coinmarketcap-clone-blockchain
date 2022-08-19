@@ -64,6 +64,6 @@ Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
 
 
-https://youtu.be/fim8DfBPVks?t=4174
+https://youtu.be/fim8DfBPVks?t=4547
 
 https://pro.coinmarketcap.com/account/

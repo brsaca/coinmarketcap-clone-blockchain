@@ -7,7 +7,7 @@ const styles = {
 
 }
 
-const TrendingCardRow = ({key, number, symbol, name, icon, isIncrement, rate}) => {
+const TrendingCardRow = ({_key, number, symbol, name, icon, isIncrement, rate}) => {
     return (
         <div className={styles.trendingCardRow}>
             <p className='opacity-40'>{number}</p>
