@@ -19,6 +19,7 @@ const styles = {
 }
 
 const CoinNameRow = ({ name, icon, clicked }) => {
+    console.log(name);
   const { openModal } = useContext(CoinMarketContext)
 
   const coinIcon = () => {
@@ -135,13 +136,7 @@ const CoinNameRow = ({ name, icon, clicked }) => {
 
       default:
         return (
-          <Image
-            src={btc}
-            className='rounded-full'
-            width={20}
-            height={20}
-            alt=''
-          />
+          <></>
         )
     }
   }
