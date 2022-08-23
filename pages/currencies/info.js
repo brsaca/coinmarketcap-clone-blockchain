@@ -1,4 +1,4 @@
-import CMCpriceConverter from '../../components/PriceConverter'
+import CMCpriceConverter from '../../components/CMCpriceConverter'
 
 import Header from '../../components/header'
 import solana from '../../assets/solana.png'
