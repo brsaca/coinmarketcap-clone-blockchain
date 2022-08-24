@@ -4,6 +4,7 @@ import ChevronUp from '../assets/svg/chevronUp'
 import shiba from '../assets/shiba.png'
 import Image from 'next/image'
 import Button from "./Button"
+import ChatCard from "./ChatCard"
 
 import { useState, useContext, useEffect } from 'react'
 
@@ -102,7 +103,7 @@ const Chat = () => {
         <div className={styles.postButtonContainer}>
            <Button label='Post' onPress={sendMessage} /> 
         </div>
-
+        <ChatCard /> 
     </>  
     );
     
