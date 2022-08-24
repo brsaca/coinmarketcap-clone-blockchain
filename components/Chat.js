@@ -3,6 +3,7 @@ import ChevronDown from '../assets/svg/chevronDown'
 import ChevronUp from '../assets/svg/chevronUp'
 import shiba from '../assets/shiba.png'
 import Image from 'next/image'
+import Button from "./Button"
 
 import { useState, useContext, useEffect } from 'react'
 
@@ -24,6 +25,10 @@ const styles = {
 const Chat = () => {
     const [message, setMessage] = useState('')
     const [bullishValue, setBullishValue] = useState(true)
+
+    const sendMessage = () => {
+        
+    }
 
     return (
     <>
@@ -92,9 +97,10 @@ const Chat = () => {
             value={message}
             onChange={e => setMessage(e.target.value)}
         />
-
+        <br />
+        <br />
         <div className={styles.postButtonContainer}>
-           {/* <Button label='Post' onPress={sendMessage} /> */}
+           <Button label='Post' onPress={sendMessage} /> 
         </div>
 
     </>  
