@@ -29,6 +29,9 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 <a href="https://moralis.io/">
 <img src="images/moralis.png" align="center" width="10%">
 </a>  
+<a href="https://hardhat.org/">
+<img src="images/hardhat.png" align="center" width="3%">
+</a>  
 <a href="https://www.netlify.com/">
 <img src="images/netlify.png" align="center" width="10%">
 </a>  
@@ -41,6 +44,9 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 
 - Have an account on [moralis](https://moralis.io/) to use the server
 - Have an account on [netlify](https://www.netlify.com/) to upload the project
+- Have an account on [coinmarketcap](https://pro.coinmarketcap.com/account/) to get an API Key for coinmarket
+- Test the smart contract on [polygon mumbai](https://mumbai.polygonscan.com)
+- Have an account on [alchemy](https://dashboard.alchemy.com/)
 
 ## ✨ TODO
 
@@ -63,7 +69,3 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
 
-
-https://youtu.be/fim8DfBPVks?t=4547
-
-https://pro.coinmarketcap.com/account/
