@@ -18,11 +18,11 @@ export const CoinMarketProvider = ({children}) => {
 
     const { isAuthenticated, user, Moralis } = useMoralis()
 
-    /*const {
+    const {
         data: coins,
         error,
         isLoading: loadingCoins,
-    } = useMoralisQuery('Coins') */
+    } = useMoralisQuery('Coins') 
 
     const [currentAccount, setCurrentAccount] = useState('')
     const [openBuyCryptoModal, setOpenBuyCryptoModal] = useState(false)
@@ -58,10 +58,6 @@ export const CoinMarketProvider = ({children}) => {
         if (toToken === 'Usdc') return usdcAbi
     }
 
-    const openModal = () => {
-        setOpenBuyCryptoModal(true)
-      }
-    
     //Mint function for the token with send ether to the contract
     const mint = async () => {
         try {
@@ -150,10 +146,26 @@ export const CoinMarketProvider = ({children}) => {
         }
     }
 
+    const openModal = () => {
+        setOpenBuyCryptoModal(true)
+    }
+
     return (
         <CoinMarketContext.Provider
             value = {{
-                getTopTenCoins
+                getTopTenCoins,
+                openBuyCryptoModal,
+                setOpenBuyCryptoModal,
+                coins,
+                loadingCoins,
+                fromToken,
+                toToken,
+                setFromToken,
+                setToToken,
+                amount,
+                setAmount,
+                mint,
+                openModal,
             }}
         >
         {children}
