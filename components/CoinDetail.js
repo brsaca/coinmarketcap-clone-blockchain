@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import DropdownBtn from './buttons/DropDownBtn'
-import Rate from './cmc-table/rate'
+import Rate from './cmc-table/Rate'
 import RateFilled from './buttons/RateFilled'
 import btc from '../assets/btc.png'
 import eth from '../assets/eth.png'
