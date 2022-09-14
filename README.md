@@ -3,9 +3,9 @@
 Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS](https://www.youtube.com/watch?v=fim8DfBPVks)
 
 <p align="center">
-<!--<a href="https://62fbf30c2cdeff0008e057eb--bsc-coinmarketcap-clone-blockchain.netlify.app/">
-<img src="images/coinmarket.png" align="center" width="50%">
-</a>  -->
+<a href="https://62fbf30c2cdeff0008e057eb--bsc-coinmarketcap-clone-blockchain.netlify.app/">
+<img src="images/home.png" align="center" width="80%">
+</a>  
 <br><br>
      Coin Market
     <br><br>
@@ -31,6 +31,9 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 </a>  
 <a href="https://hardhat.org/">
 <img src="images/hardhat.png" align="center" width="3%">
+</a>   
+<a href="https://gun.eco/">
+<img src="images/gunjs.png" align="center" width="7%">
 </a>  
 <a href="https://www.netlify.com/">
 <img src="images/netlify.png" align="center" width="10%">
@@ -43,6 +46,7 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 ## 🤖 Requirements
 
 - Have an account on [moralis](https://moralis.io/) to use the server
+- Have an account on [gunjs](https://moralis.io/) to use the server
 - Have an account on [netlify](https://www.netlify.com/) to upload the project
 - Have an account on [coinmarketcap](https://pro.coinmarketcap.com/account/) to get an API Key for coinmarket
 - Test the smart contract on [polygon mumbai](https://mumbai.polygonscan.com)
@@ -69,3 +73,4 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
 
+https://youtu.be/fim8DfBPVks?t=16415
