@@ -3,14 +3,17 @@
 Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moralis | Next.js | Tailwind CSS](https://www.youtube.com/watch?v=fim8DfBPVks)
 
 <p align="center">
-<a href="https://62fbf30c2cdeff0008e057eb--bsc-coinmarketcap-clone-blockchain.netlify.app/">
+<a href="https://bsc-coinmarketcap-clone-blockchain.netlify.app/">
 <img src="images/home.png" align="center" width="80%">
 </a>  
 <br><br>
      Coin Market
     <br><br>
     <a href="#">
-    <img alt="Status" src="https://img.shields.io/badge/Status-WIP-red.svg" />
+    <img alt="Version" src="https://img.shields.io/badge/Version-v1.0-red.svg" />
+  </a>
+  <a href="#">
+    <img alt="Environment" src="https://img.shields.io/badge/Environment-production-green.svg" />
   </a>
   <a href="#">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-orange.svg" />
@@ -56,6 +59,7 @@ Based on youtube tutorial [Build CoinMarketCap Web 3.0 Blockchain App with Moral
 
 - [ ] Tests
 - [ ] Show login button with user and ether
+- [ ] Add gun functionality for the chat
 
 <br>
 
