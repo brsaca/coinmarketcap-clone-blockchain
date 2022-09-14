@@ -4,7 +4,7 @@ import Header from '../../components/Header'
 import solana from '../../assets/solana.png'
 import Usd from '../../assets/svg/usd'
 import { useEffect, useState } from 'react'
-import Graph from '../../components/graph'
+import Graph from '../../components/Graph'
 import Chat from '../../components/Chat'
 
 const styles = {
